@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Funnel Display', 'Courier New', Courier, monospace;
   background-color: #ffffff;
   color: #252525;
   display: flex;
@@ -21,7 +21,7 @@ body {
 }
 
 .center h1 {
-  font-size: 4rem;
+  font-size: 6rem;
   margin: 0;
 }
 
